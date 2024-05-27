@@ -12,7 +12,7 @@ crates:
     version: 0.3.5
 ```
 
-Dependencies are fetched from [`crates.io`](https://crates.io) at the exact version. 
+Dependencies are fetched from [`crates.io`](https://crates.io) at the exact version.
 
 To use dependency, just add `extern crate ...` on the top of the main file:
 
@@ -20,9 +20,11 @@ To use dependency, just add `extern crate ...` on the top of the main file:
 extern crate either;
 extern crate derive_more;
 extern crate seq_macro;
-``` 
+```
 
 ## Multiple source files
+
+This section has nothing to do with the local instance and can be used with official host.
 
 To use multiple source files as 1 rust crate with compiler explorer, do the following steps:
 
