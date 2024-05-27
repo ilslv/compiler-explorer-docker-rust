@@ -1,0 +1,7 @@
+crates:
+  - name: either
+    version: 1.12.0
+  - name: derive_more
+    version: 0.99.17
+  - name: seq-macro
+    version: 0.3.5
